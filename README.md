@@ -33,7 +33,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
   
   <bold>**My Github stats**</bold> 
   <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=BeamKunGzMARK&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="BeamKunGzMARK" />
+  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=BeamKunGzMARK&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="BeamKunGzMARK" />
     <br>
     <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeamKunGzMARK&layout=compact" alt="BeamKunGzMARKlang" />
