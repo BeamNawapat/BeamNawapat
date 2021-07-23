@@ -45,21 +45,21 @@ I study at Suankularb Wittayalai Nonthaburi School.
 
 ### Contact
 
-<p align="center">
+<div align="center">
 <a href="https://www.facebook.com/NawapatBuakoet">
-  <img align="left" alt="Nawapat Buakoet | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/1312/1312139.png" />
+  <img align="center" alt="Nawapat Buakoet | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/1312/1312139.png" />
 </a>
 <a href="https://www.youtube.com/c/BeamKunGzMARK">
-  <img align="left" alt="BeamKunGzMARK | Youtube" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/youtube-82-189778.png" />
+  <img align="center" alt="BeamKunGzMARK | Youtube" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/youtube-82-189778.png" />
 </a>
 <a href="https://discord.gg/eBjUBgPQF7">
-  <img align="left" alt="Nawapat's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="center" alt="Nawapat's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/nawapatb2b">
-  <img align="left" alt="Nawapat Buakoet | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="center" alt="Nawapat Buakoet | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://telegram.me/BeamKunGzMARK">
-  <img align="left" alt="Nawapat Buakoet | Telegram" width="22px" src="https://image.flaticon.com/icons/png/512/906/906377.png" />
+  <img align="center" alt="Nawapat Buakoet | Telegram" width="22px" src="https://image.flaticon.com/icons/png/512/906/906377.png" />
 </a>
   
   
