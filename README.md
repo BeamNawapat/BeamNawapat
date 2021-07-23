@@ -50,7 +50,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
   <img align="left" alt="Nawapat Buakoet | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/1312/1312139.png" />
 </a>
 <a href="https://www.youtube.com/c/BeamKunGzMARK">
-  <img align="left" alt="BeamKunGzMARK | Youtube" width="22px" src="https://img-premium.flaticon.com/png/512/2875/premium/2875384.png?token=exp=1626594091~hmac=50a41e70db763220867ea414d5c251c8" />
+  <img align="left" alt="BeamKunGzMARK | Youtube" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/youtube-82-189778.png" />
 </a>
 <a href="https://discord.gg/eBjUBgPQF7">
   <img align="left" alt="Nawapat's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
