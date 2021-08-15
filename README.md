@@ -24,6 +24,8 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img height="30" src="https://user-images.githubusercontent.com/39422342/129476993-3b4af55d-02f9-4361-8a31-ca8b777287b1.png" />  
+<img height="30" src="https://user-images.githubusercontent.com/39422342/129477049-23a7fe0b-a070-498d-b369-f867b24ead72.png" />  
   
 <br>
 <br>  
