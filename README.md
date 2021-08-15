@@ -8,8 +8,6 @@ Now I am 16 year old.
 
 I study at Suankularb Wittayalai Nonthaburi School.
 
-<br>
-
 ### My Profile
 ⚡ My motto is perseverance, determination, perseverance, always cultivating knowledge, never stopping to develop.
 
