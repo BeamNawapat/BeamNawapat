@@ -77,8 +77,6 @@ I study at Suankularb Wittayalai Nonthaburi School.
   <img align="center" alt="Nawapat Buakoet | Telegram" width="30" src="https://image.flaticon.com/icons/png/512/906/906377.png" />
 </a>
   
-  
-<br><br>
 
 ### History
 
