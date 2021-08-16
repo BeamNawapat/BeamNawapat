@@ -80,6 +80,10 @@ I study at Suankularb Wittayalai Nonthaburi School.
   
 <br><br>
 
+### History
+
+ - 16/8/2564 Can create [Technical Analysis Charts](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/?feature=technical-analysis-charts)
+
 <!--
 **BeamKunGzMARK/BeamKunGzMARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
