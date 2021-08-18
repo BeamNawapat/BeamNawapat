@@ -82,7 +82,9 @@ I study at Suankularb Wittayalai Nonthaburi School.
 
  - 16/8/2564 can create [Technical Analysis Charts](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/?feature=technical-analysis-charts)
  - 17/8/2564 fix all `bugs` Technical Analysis Charts for [Bkccharts](https://www.bkccharts.com)
- - 18/8/2564 add `autodecimal` plus 4 decimal from that coin such as 0.000156144 -> 0.0001561 or 0.116544 -> 0.1165
+ - 18/8/2564 add `autodecimal` plus 4 decimal from that coin such as 0.000156144 -> 0.0001561 
+
+   or 0.116544 -> 0.1165
 
 <!--
 **BeamKunGzMARK/BeamKunGzMARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
