@@ -4,7 +4,7 @@
 
 ### About me
 
-Now I am 16 year old.
+Now I am 16 year old, I was born in 2005.
 
 I study at Suankularb Wittayalai Nonthaburi School.
 
