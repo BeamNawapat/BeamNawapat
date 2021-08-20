@@ -83,7 +83,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
  - 16/8/2564 can create [Technical Analysis Charts](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/?feature=technical-analysis-charts)
  - 17/8/2564 fix all `bugs` Technical Analysis Charts for [Bkccharts](https://www.bkccharts.com)
  - 18/8/2564 add `autodecimal` plus 4 decimal from that coin such as 0.000156144 -> 0.0001561 
- - 19/8/2564 make login form with react in 6 hours.
+ - 19/8/2564 make [login form with react](https://github.com/BeamKunGzMARK/My-Study/tree/master/firebase_form_login_with_react) in 6 hours.
 
    or 0.116544 -> 0.1165
 
