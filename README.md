@@ -84,7 +84,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
  - 17/8/2564 fix all `bugs` Technical Analysis Charts for [Bkccharts](https://www.bkccharts.com)
  - 18/8/2564 add `autodecimal` plus 4 decimal from that coin such as 0.000156144 -> 0.0001561 
      or 0.116544 -> 0.1165
- - 19/8/2564 make [login form with react](https://github.com/BeamKunGzMARK/My-Study/tree/master/MyProject/firebase_form_login_with_react) in 6 hours.
+ - 19/8/2564 make [login form with react](https://nawalogin-bcb9e.web.app/) in 6 hours.
  - 1/9/2564 make Data Analysis for Bkccharts in 3 hours. 
 
 <!--
