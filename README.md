@@ -1,6 +1,6 @@
 
 
-# Hello, my name is Nawapat  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. ![](https://visitor-badge.glitch.me/badge?page_id=BeamKunGzMARK.BeamKunGzMARK)
+# Hello, my name is Nawapat  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. [[Portfolio](https://beamkungzmark.github.io/)] ![](https://visitor-badge.glitch.me/badge?page_id=BeamKunGzMARK.BeamKunGzMARK)
 
 ### About me
 
