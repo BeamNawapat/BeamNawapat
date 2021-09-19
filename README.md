@@ -1,6 +1,6 @@
 
 
-# Hello, my name is Nawapat  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. [[Portfolio](https://beamkungzmark.github.io/)] ![](https://visitor-badge.glitch.me/badge?page_id=BeamKunGzMARK.BeamKunGzMARK)
+# Hello, my name is Nawapat  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. ![](https://visitor-badge.glitch.me/badge?page_id=BeamKunGzMARK.BeamKunGzMARK)
 
 ### About me
 
@@ -14,6 +14,8 @@ I study at Suankularb Wittayalai Nonthaburi School.
 📖 I'm currently learning Tradingview Chart Technical Analysis
 
 🖥️ I'm currently working on Bkccharts
+
+**[Portfolio](https://beamkungzmark.github.io/)** | **[Timeline](https://timelines.gitkraken.com/timeline/c2ead8867f6d406cb5cfe0a71815dc83?showMinimap=true)**
 
 <br>
 
@@ -76,16 +78,10 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <a href="https://telegram.me/BeamKunGzMARK">
   <img align="center" alt="Nawapat Buakoet | Telegram" width="30" src="https://image.flaticon.com/icons/png/512/906/906377.png" />
 </a>
+
+
   
 
-### History
-
- - 16/8/2564 can create [Technical Analysis Charts](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/?feature=technical-analysis-charts)
- - 17/8/2564 fix all `bugs` Technical Analysis Charts for [Bkccharts](https://www.bkccharts.com)
- - 18/8/2564 add `autodecimal` plus 4 decimal from that coin such as 0.000156144 -> 0.0001561 
-     or 0.116544 -> 0.1165
- - 19/8/2564 make [login form with react](https://nawalogin-bcb9e.web.app/) in 6 hours.
- - 1/9/2564 make Data Analysis for Bkccharts in 3 hours. 
 
 <!--
 **BeamKunGzMARK/BeamKunGzMARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
