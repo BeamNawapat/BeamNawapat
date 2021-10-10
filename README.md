@@ -71,11 +71,11 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 350 Contributions in the Year 2021
+> 🏆 352 Contributions in the Year 2021
  > 
 > 📦 389.8 kB Used in GitHub's Storage 
  > 
@@ -85,29 +85,6 @@ I study at Suankularb Wittayalai Nonthaburi School.
  > 
 > 🔑 27 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    104 commits    ██████░░░░░░░░░░░░░░░░░░░   27.44% 
-🌆 Daytime    81 commits     █████░░░░░░░░░░░░░░░░░░░░   21.37% 
-🌃 Evening    156 commits    ██████████░░░░░░░░░░░░░░░   41.16% 
-🌙 Night      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.03%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       62 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
-Tuesday      42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
-Wednesday    38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.03% 
-Thursday     112 commits    ███████░░░░░░░░░░░░░░░░░░   29.55% 
-Friday       56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
-Saturday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.65% 
-Sunday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.55%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -138,10 +115,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/BeamKunGzMARK/BeamKunGzMARK/main/charts/bar_graph.png) 
 
 
  Last Updated on 10/10/2021
