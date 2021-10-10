@@ -71,8 +71,6 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 352 Contributions in the Year 2021
