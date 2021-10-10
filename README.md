@@ -70,7 +70,9 @@ I study at Suankularb Wittayalai Nonthaburi School.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeamKunGzMARK&layout=compact" alt="BeamKunGzMARKlang" />
 <br>
 
-  
+<!--START_SECTION:waka-->
+    
+<!--END_SECTION:waka-->
 
 
 <!--
