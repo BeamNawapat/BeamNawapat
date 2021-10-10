@@ -17,9 +17,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
 
 **[Portfolio](https://beamkungzmark.github.io/)** | **[Timeline](https://timelines.gitkraken.com/timeline/c2ead8867f6d406cb5cfe0a71815dc83?showMinimap=true)**
 
-<br>
-
-<bold>**Languages**<bold>
+### <bold>**Languages**<bold>
 <div align="left">
 <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/html.svg' width='30'/> 
 <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/css.svg' width='30'/> 
@@ -30,37 +28,23 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <img height="30" src="https://user-images.githubusercontent.com/39422342/129477049-23a7fe0b-a070-498d-b369-f867b24ead72.png" />  
   
 <br>
-<br>  
   
-<bold>**Tools**<bold>
+### <bold>**Tools**<bold>
   
 <img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
 <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/bootstrap.svg' width='30'/>
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img height="30" width="25" src="./logo/mongodb.svg" />
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-  
-<br>
-<br>
-  
-  <bold>**Charts**</bold>
+ 
+### <bold>**Charts**</bold>
   
 <img height="30" src="https://www.amcharts.com/wp-content/uploads/2017/10/amcharts_light_transparent.png" />
 <img height="30" src="https://user-images.githubusercontent.com/39422342/129476683-c98e9f62-050c-47db-bcbc-f5871ee6357f.png" />
 
   </div>
   
-  
- <br>
-  
-  <bold>**My Github stats**</bold> 
-  <div align="left">
-  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=BeamKunGzMARK&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="BeamKunGzMARK" />
-    <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeamKunGzMARK&layout=compact" alt="BeamKunGzMARKlang" />
-<br>
-
-### Contact
+  ### Contact
 
 <div align="left">
 <a href="https://www.facebook.com/NawapatBuakoet">
@@ -78,7 +62,13 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <a href="https://telegram.me/BeamKunGzMARK">
   <img align="center" alt="Nawapat Buakoet | Telegram" width="30" src="https://image.flaticon.com/icons/png/512/906/906377.png" />
 </a>
-
+  
+### <bold>**My Github stats**</bold> 
+  <div align="left">
+  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=BeamKunGzMARK&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="BeamKunGzMARK" />
+    <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeamKunGzMARK&layout=compact" alt="BeamKunGzMARKlang" />
+<br>
 
   
 
