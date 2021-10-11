@@ -73,7 +73,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 352 Contributions in the Year 2021
+> 🏆 353 Contributions in the Year 2021
  > 
 > 📦 389.8 kB Used in GitHub's Storage 
  > 
@@ -89,16 +89,20 @@ I study at Suankularb Wittayalai Nonthaburi School.
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 mins              ████████████████░░░░░░░░░   64.59% 
+YAML                     2 mins              ████████░░░░░░░░░░░░░░░░░   34.89% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+My-Study                 4 mins              ████████████████░░░░░░░░░   64.59% 
+workflows                2 mins              ████████░░░░░░░░░░░░░░░░░   34.89% 
+solidity                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 mins              █████████████████████████   100.0%
 
 ```
 
@@ -115,7 +119,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2021
+ Last Updated on 11/10/2021
 <!--END_SECTION:waka-->
 
 
