@@ -55,37 +55,12 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img height="30" src="https://www.amcharts.com/wp-content/uploads/2017/10/amcharts_light_transparent.png" />
+<img height="30" src="https://user-images.githubusercontent.com/39422342/129476683-c98e9f62-050c-47db-bcbc-f5871ee6357f.png" />
 
 </div>
 
 
-### <bold>**Languages**<bold>
-<div align="left">
-<img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/html.svg' width='30'/> 
-<img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/css.svg' width='30'/> 
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img height="30" src="https://user-images.githubusercontent.com/39422342/129476993-3b4af55d-02f9-4361-8a31-ca8b777287b1.png" />  
-<img height="30" src="https://user-images.githubusercontent.com/39422342/129477049-23a7fe0b-a070-498d-b369-f867b24ead72.png" />  
-  
-<br>
-  
-### <bold>**Tools**<bold>
-  
-<img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
-<img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/bootstrap.svg' width='30'/>
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img height="30" width="25" src="./logo/mongodb.svg" />
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
- 
-### <bold>**Charts**</bold>
-  
-<img height="30" src="https://www.amcharts.com/wp-content/uploads/2017/10/amcharts_light_transparent.png" />
-<img height="30" src="https://user-images.githubusercontent.com/39422342/129476683-c98e9f62-050c-47db-bcbc-f5871ee6357f.png" />
-
-  </div>
-  
 --- 
   
 <details>
