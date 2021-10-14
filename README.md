@@ -77,7 +77,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
  > 
 > 💼 Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 27 Private Repositories  
  > 
