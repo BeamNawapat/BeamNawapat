@@ -73,7 +73,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
 
 > 🏆 363 Contributions in the Year 2021
  > 
-> 📦 391.2 kB Used in GitHub's Storage 
+> 📦 391.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
