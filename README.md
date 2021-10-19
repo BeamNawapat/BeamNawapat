@@ -71,9 +71,9 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 371 Contributions in the Year 2021
+> 🏆 373 Contributions in the Year 2021
  > 
-> 📦 391.5 kB Used in GitHub's Storage 
+> 📦 392.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
