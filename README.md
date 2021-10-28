@@ -23,6 +23,14 @@
 </a>
 </p>
 
+<a href="https://api.daily.dev/get?r=BeamKunGzMARK" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/858b6e137c504e4c894247f52e9358e5.png?r=qhc"
+    />
+  </a>
+
 ### About me
 
 Now I am 16 year old, I was born in 2005.
