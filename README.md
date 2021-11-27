@@ -79,7 +79,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 265 Contributions in the Year 2021
+> 🏆 272 Contributions in the Year 2021
  > 
 > 📦 226.7 kB Used in GitHub's Storage 
  > 
@@ -87,7 +87,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
  > 
 > 📜 15 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> 🔑 8 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -113,10 +113,10 @@ Windows                  12 mins             ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               10 repos            ██████████████░░░░░░░░░░░   58.82% 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
+JavaScript               11 repos            ███████████████░░░░░░░░░░   61.11% 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
 
