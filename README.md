@@ -77,6 +77,8 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <br>
    
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2023%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 304 Contributions in the Year 2021
@@ -95,18 +97,16 @@ I study at Suankularb Wittayalai Nonthaburi School.
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               7 mins              ███████████████████████░░   93.73% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Backend                  8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
