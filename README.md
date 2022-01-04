@@ -77,11 +77,11 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <br>
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%205%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 5 Contributions in the Year 2022
+> 🏆 7 Contributions in the Year 2022
  > 
 > 📦 252.9 kB Used in GitHub's Storage 
  > 
@@ -89,7 +89,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
  > 
 > 📜 15 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> 🔑 8 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -121,10 +121,11 @@ Windows                  7 hrs 56 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               10 repos            ██████████████░░░░░░░░░░░   58.82% 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
+JavaScript               10 repos            ██████████████░░░░░░░░░░░   55.56% 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
