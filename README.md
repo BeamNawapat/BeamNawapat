@@ -81,7 +81,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
 
 **🐱 My GitHub Data** 
 
-> 🏆 21 Contributions in the Year 2022
+> 🏆 22 Contributions in the Year 2022
  > 
 > 📦 258.9 kB Used in GitHub's Storage 
  > 
