@@ -42,7 +42,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
 
 📖 I'm currently learning Tradingview Chart Technical Analysis
 
-🖥️ I'm currently working on BkcCharts
+🖥️ I'm currently working on Covest Finance
 
 **[Portfolio](https://beamkungzmark.github.io/)** | **[Timeline](https://timelines.gitkraken.com/timeline/c2ead8867f6d406cb5cfe0a71815dc83?showMinimap=true)**
 
