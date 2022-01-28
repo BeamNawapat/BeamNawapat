@@ -77,6 +77,8 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <br>
    
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2038%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 28 Contributions in the Year 2022
@@ -95,20 +97,16 @@ I study at Suankularb Wittayalai Nonthaburi School.
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TOML                     18 mins             ███████████████████░░░░░░   77.44% 
-YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.13% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-axelarate-community      24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -125,7 +123,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2022 17:39:13 UTC
+ Last Updated on 28/01/2022 21:35:06 UTC
 <!--END_SECTION:waka-->
 
 
