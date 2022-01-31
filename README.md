@@ -97,16 +97,16 @@ I study at Suankularb Wittayalai Nonthaburi School.
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Backend                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -123,7 +123,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2022 19:35:24 UTC
+ Last Updated on 31/01/2022 21:40:00 UTC
 <!--END_SECTION:waka-->
 
 
