@@ -83,7 +83,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
 
 > 🏆 70 Contributions in the Year 2022
  > 
-> 📦 262.3 kB Used in GitHub's Storage 
+> 📦 261.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -131,7 +131,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/02/2022 03:37:56 UTC
+ Last Updated on 20/02/2022 04:45:10 UTC
 <!--END_SECTION:waka-->
 
 
