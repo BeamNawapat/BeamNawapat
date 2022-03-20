@@ -40,7 +40,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
 ### My Profile
 ⚡ My motto is perseverance, determination, perseverance, always cultivating knowledge, never stopping to develop.
 
-📖 I'm currently learning Tradingview Chart Technical Analysis
+📖 I'm currently learning Go-IPFS 
 
 🖥️ I'm currently working on Covest Finance
 
