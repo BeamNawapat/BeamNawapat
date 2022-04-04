@@ -3,7 +3,7 @@
 <a href="https://www.facebook.com/NawapatBuakoet" target="blank">
   <img align="center" alt="Nawapat Buakoet | Facebook" width="25" height="25" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/c/BeamKunGzMARK" target="blank">
+<a href="https://www.youtube.com/c/beamnawapat" target="blank">
   <img align="center" alt="BeamKunGzMARK | Youtube" width="25" height="25" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/youtube.svg" />
 </a>
 <a href="https://twitter.com/nawapatb2b" target="blank">
@@ -12,13 +12,10 @@
 <a href="https://www.instagram.com/nawapatb.2b" target="blank">
     <img align="center" alt="Nawapat Buakoet | Instagram"  width="25" height="25" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />
 </a>
-<a href="https://telegram.me/BeamKunGzMARK" target="blank">
+<a href="https://telegram.me/BeamNawapat" target="blank">
   <img align="center" alt="Nawapat Buakoet | Telegram"  width="25" height="25" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/telegram.svg" />
 </a>
-<a href="https://dev.to/beamkungzmark" target="blank">
-   <img align="center" alt="Nawapat Buakoet | Linkedin"  width="30" height="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/dev_to.svg" />
-</a>
-<a href="https://www.linkedin.com/in/beamkungzmark" target="blank">
+<a href="https://www.linkedin.com/in/beamnawapat" target="blank">
    <img align="center" alt="Nawapat Buakoet | Linkedin"  width="25" height="25" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />
 </a>
 </p>
@@ -44,7 +41,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
 
 🖥️ I'm currently working Covest Finance
 
-**[Portfolio](https://beamkungzmark.github.io/)** | **[Timeline](https://timelines.gitkraken.com/timeline/c2ead8867f6d406cb5cfe0a71815dc83?showMinimap=true)**
+**[Portfolio](https://beamnawapat.github.io/)** | **[Timeline](https://timelines.gitkraken.com/timeline/c2ead8867f6d406cb5cfe0a71815dc83?showMinimap=true)**
 
 ### Skills
 
