@@ -74,6 +74,8 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <br>
    
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2036%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 219 Contributions in the Year 2022
@@ -125,7 +127,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/04/2022 17:38:03 UTC
+ Last Updated on 09/04/2022 21:36:46 UTC
 <!--END_SECTION:waka-->
 
 
