@@ -74,7 +74,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <br>
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2011%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -128,7 +128,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2022 07:36:18 UTC
+ Last Updated on 17/04/2022 09:38:11 UTC
 <!--END_SECTION:waka-->
 
 
