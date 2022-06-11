@@ -80,7 +80,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 8 Private Repositories  
  > 
@@ -124,7 +124,7 @@ Go                       1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 11/06/2022 09:04:38 UTC
+ Last Updated on 11/06/2022 10:04:31 UTC
 <!--END_SECTION:waka-->
 
 
