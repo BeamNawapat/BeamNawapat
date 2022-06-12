@@ -66,25 +66,24 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <br>
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-orange)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11%20Million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**📊 My GitHub data** 
 
-> 🏆 630 Contributions in the Year 2022
+```text
+🏆 630 contributions in 2022
+
+📦 262.0 kB used in GitHub's storage 
+
+📜 19 Public Repositories 
+
+🔑 8 Private Repositories  
  > 
-> 📦 262.0 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Asia/Bangkok
@@ -111,7 +110,7 @@ Windows                  13 hrs 33 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 ```
 
-**I Mostly Code in JavaScript** 
+**💻 I mostly code in JavaScript** 
 
 ```text
 JavaScript               10 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   52.63% 
@@ -124,7 +123,7 @@ Go                       1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 12/06/2022 07:06:18 UTC
+ Last Updated on 12/06/2022 08:09:56 UTC
 <!--END_SECTION:waka-->
 
 
