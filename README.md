@@ -76,7 +76,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
 
 > 🏆 713 Contributions in the Year 2022
  > 
-> 📦 267.8 kB Used in GitHub's Storage 
+> 📦 267.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -126,7 +126,7 @@ Solidity                 2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 21/06/2022 18:05:56 UTC
+ Last Updated on 21/06/2022 19:05:11 UTC
 <!--END_SECTION:waka-->
 
 
