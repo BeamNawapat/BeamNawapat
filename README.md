@@ -70,11 +70,11 @@ I study at Suankularb Wittayalai Nonthaburi School.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 728 Contributions in the Year 2022
+> 🏆 729 Contributions in the Year 2022
  > 
 > 📦 267.9 kB Used in GitHub's Storage 
  > 
@@ -126,7 +126,7 @@ Solidity                 2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 25/06/2022 11:05:38 UTC
+ Last Updated on 25/06/2022 12:10:28 UTC
 <!--END_SECTION:waka-->
 
 
