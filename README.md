@@ -66,7 +66,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <br>
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-339%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -76,7 +76,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
 
 > 🏆 749 Contributions in the Year 2022
  > 
-> 📦 268.3 kB Used in GitHub's Storage 
+> 📦 268.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -124,7 +124,7 @@ CSS                      2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 05/07/2022 12:15:08 UTC
+ Last Updated on 05/07/2022 13:37:50 UTC
 <!--END_SECTION:waka-->
 
 
