@@ -76,7 +76,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
 
 > 🏆 1,153 Contributions in the Year 2022
  > 
-> 📦 273.6 kB Used in GitHub's Storage 
+> 📦 273.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -121,7 +121,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 18/09/2022 12:59:25 UTC
+ Last Updated on 18/09/2022 13:34:32 UTC
 <!--END_SECTION:waka-->
 
 
