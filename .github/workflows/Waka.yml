@@ -17,9 +17,6 @@ jobs:
                   SHOW_LANGUAGE: "True"
                   SHOW_OS: "True"
                   SHOW_EDITORS: "True"
-                  SHOW_COMMIT: "Flase"
-                  SHOW_DAYS_OF_WEEK: "False"
-                  SHOW_LOC_CHART: "False"
-                  SHOW_PROFILE_VIEWS: "True"
-                  SHOW_LINES_OF_CODE: "True"
+                  SHOW_TOTAL_CODE_TIME: "True"
+                  IGNORED_REPOS: "BeamNawapat"
                   SYMBOL_VERSION: 3
