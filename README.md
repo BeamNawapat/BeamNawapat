@@ -20,7 +20,13 @@
 </a>
 </p>
 
-### About me
+
+<div align="right">
+ <img align="right" alt="spotify recently played" src="https://spotify-recently-played-readme.vercel.app/api?user=g9v47h98zmp015cdsbn32uf0d&count=2">
+</div>
+
+### About me 
+
 
 Now I am 17 year old, I was born in 2005.
 
