@@ -73,11 +73,9 @@ I study at Suankularb Wittayalai Nonthaburi School.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 1,261 Contributions in the Year 2022
+> 🏆 1,257 Contributions in the Year 2022
  > 
 > 📦 275.4 kB Used in GitHub's Storage 
  > 
@@ -87,29 +85,6 @@ I study at Suankularb Wittayalai Nonthaburi School.
  > 
 > 🔑 11 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    71 commits     ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   9.35% 
-🌆 Daytime    259 commits    ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   34.12% 
-🌃 Evening    367 commits    ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   48.35% 
-🌙 Night      62 commits     ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   8.17%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       106 commits    ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.97% 
-Tuesday      73 commits     ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   9.62% 
-Wednesday    48 commits     ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   6.32% 
-Thursday     137 commits    ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.05% 
-Friday       173 commits    ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.79% 
-Saturday     86 commits     ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.33% 
-Sunday       136 commits    ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.92%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -145,10 +120,6 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/BeamNawapat/BeamNawapat/main/charts/bar_graph.png) 
-
-
- Last Updated on 15/10/2022 14:16:36 UTC
+ Last Updated on 15/10/2022 14:19:44 UTC
 <!--END_SECTION:waka-->
