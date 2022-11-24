@@ -91,19 +91,16 @@ I study at Suankularb Wittayalai Nonthaburi School.
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JSON                     7 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   50.86% 
-Solidity                 6 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.56% 
-JavaScript               1 min               ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   8.35% 
-Other                    0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   1.23%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SmartContract            15 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -120,5 +117,5 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 24/11/2022 18:08:59 UTC
+ Last Updated on 24/11/2022 18:31:33 UTC
 <!--END_SECTION:waka-->
