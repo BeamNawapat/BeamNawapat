@@ -83,7 +83,7 @@ I study at Suankularb Wittayalai Nonthaburi School.
  > 
 > 📜 23 Public Repositories 
  > 
-> 🔑 11 Private Repositories  
+> 🔑 12 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -117,5 +117,5 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 27/11/2022 09:47:58 UTC
+ Last Updated on 27/11/2022 09:53:45 UTC
 <!--END_SECTION:waka-->
