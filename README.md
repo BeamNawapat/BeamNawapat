@@ -27,10 +27,7 @@
 
 ### About me 
 
-
-Now I am 17 year old, I was born in 2005.
-
-I study at Suankularb Wittayalai Nonthaburi School.
+I was born in 2005.
 
 ### My Profile
 ⚡ My motto is perseverance, determination, perseverance, always cultivating knowledge, never stopping to develop.
