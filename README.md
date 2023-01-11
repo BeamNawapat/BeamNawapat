@@ -68,7 +68,7 @@ I was born in 2005.
 <br>
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%2031%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -123,5 +123,5 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 11/01/2023 12:12:02 UTC
+ Last Updated on 11/01/2023 12:47:26 UTC
 <!--END_SECTION:waka-->
