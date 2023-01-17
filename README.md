@@ -68,11 +68,11 @@ I was born in 2005.
 <br>
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-670%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2019%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 6 Contributions in the Year 2023
+> 🏆 10 Contributions in the Year 2023
  > 
 > 📦 280.1 kB Used in GitHub's Storage 
  > 
@@ -80,7 +80,7 @@ I was born in 2005.
  > 
 > 📜 24 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 13 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -111,15 +111,15 @@ Windows                  10 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   44.44% 
-HTML                     5 repos             ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.52% 
-TypeScript               4 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.81% 
-Solidity                 4 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.81% 
-CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   3.7%
+JavaScript               13 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   46.43% 
+HTML                     5 repos             ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.86% 
+TypeScript               4 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.29% 
+Solidity                 4 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.29% 
+CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   3.57%
 
 ```
 
 
 
- Last Updated on 17/01/2023 13:06:25 UTC
+ Last Updated on 17/01/2023 15:05:59 UTC
 <!--END_SECTION:waka-->
