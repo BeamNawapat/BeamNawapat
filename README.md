@@ -68,11 +68,11 @@ I was born in 2005.
 <br>
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2034%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 13 Contributions in the Year 2023
+> 🏆 14 Contributions in the Year 2023
  > 
 > 📦 280.1 kB Used in GitHub's Storage 
  > 
@@ -97,11 +97,6 @@ Solidity                 12 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 🔥 Editors: 
 VS Code                  15 hrs 22 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
 
-🐱‍💻 Projects: 
-bsq-model                10 hrs 18 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   67.11% 
-Clickup-Waka             4 hrs 52 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.74% 
-Unknown Project          10 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   1.15%
-
 💻 Operating System: 
 Mac                      15 hrs 11 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   98.85% 
 Windows                  10 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   1.15%
@@ -121,5 +116,5 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 18/01/2023 10:13:30 UTC
+ Last Updated on 18/01/2023 12:11:45 UTC
 <!--END_SECTION:waka-->
