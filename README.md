@@ -23,7 +23,12 @@
 
 <div align="right">
  <img align="right" alt="spotify recently played" src="https://spotify-recently-played-readme.vercel.app/api?user=g9v47h98zmp015cdsbn32uf0d&count=2">
+
 </div>
+
+  <div align="right">
+  <a href="https://www.buymeacoffee.com/beamnawapat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" align="right" ></a>
+  </div>
 
 ### About me 
 
@@ -35,6 +40,8 @@ I was born in 2005.
 📖 I'm currently learning Go-IPFS and Rust
 
 🖥️ I'm currently working Covest Finance
+
+
 
 **[Portfolio](https://beamnawapat.github.io/)** | **[Timeline](https://timelines.gitkraken.com/timeline/c2ead8867f6d406cb5cfe0a71815dc83?showMinimap=true)**
 
