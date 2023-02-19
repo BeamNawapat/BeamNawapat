@@ -1,3 +1,4 @@
+
 <h1 align="center">Hello, I'm Nawapat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" margin-top="5"/></h1>
 <p align="center">
 <a href="https://www.facebook.com/NawapatBuakoet" target="blank">
@@ -26,9 +27,6 @@
 
 </div>
 
-  <div align="right">
-  <a href="https://www.buymeacoffee.com/beamnawapat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" align="right" ></a>
-  </div>
 
 ### About me 
 
@@ -36,6 +34,9 @@ I was born in 2005.
 
 ### My Profile
 ⚡ My motto is perseverance, determination, perseverance, always cultivating knowledge, never stopping to develop.
+  <div align="right">
+  <a href="https://www.buymeacoffee.com/beamnawapat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"  width="250" height="100"  align="right" ></a>
+  </div>
 
 📖 I'm currently learning Go-IPFS and Rust
 
