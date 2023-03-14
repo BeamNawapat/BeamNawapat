@@ -38,8 +38,6 @@ I was born in 2005.
   <a href="https://www.buymeacoffee.com/beamnawapat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"  width="250" height="100"  align="right" ></a>
   </div>
 
-📖 I'm currently learning Go-IPFS and Rust
-
 🖥️ I'm currently working Covest Finance
 
 
