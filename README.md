@@ -35,7 +35,7 @@ I was born in 2005.
 ### My Profile
 ⚡ My motto is perseverance, determination, perseverance, always cultivating knowledge, never stopping to develop.
   <div align="right">
-  <a href="https://www.buymeacoffee.com/beamnawapat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"  width="250" height="100"  align="right" ></a>
+  <a href="https://www.buymeacoffee.com/beamnawapat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"  width="250" height="75"  align="right" ></a>
   </div>
 
 🖥️ I'm currently working Covest Finance
