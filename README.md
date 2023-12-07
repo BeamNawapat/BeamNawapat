@@ -88,21 +88,6 @@ I was born in 2005.
  > 
 > 🔑 15 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -116,5 +101,5 @@ Python                   1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 06/12/2023 00:58:03 UTC
+ Last Updated on 07/12/2023 00:57:27 UTC
 <!--END_SECTION:waka-->
