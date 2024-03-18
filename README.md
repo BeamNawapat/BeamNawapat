@@ -84,7 +84,7 @@ I was born in 2005.
  > 
 > 💼 Opted to Hire
  > 
-> 📜 47 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 17 Private Repositories 
  > 
@@ -116,5 +116,5 @@ Python                   2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 17/03/2024 00:57:38 UTC
+ Last Updated on 18/03/2024 00:55:12 UTC
 <!--END_SECTION:waka-->
