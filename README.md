@@ -78,7 +78,7 @@ I was born in 2005.
 
 **🐱 My GitHub Data** 
 
-> 📦 290.6 kB Used in GitHub's Storage 
+> 📦 291.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -86,21 +86,6 @@ I was born in 2005.
  > 
 > 🔑 17 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -114,5 +99,5 @@ Python                   2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 10/04/2024 00:54:52 UTC
+ Last Updated on 11/04/2024 00:55:41 UTC
 <!--END_SECTION:waka-->
