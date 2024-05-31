@@ -80,8 +80,6 @@ I was born in 2005.
 
 > 📦 292.3 kB Used in GitHub's Storage 
  > 
-> 🏆 159 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 55 Public Repositories 
@@ -116,5 +114,5 @@ Python                   2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 30/05/2024 00:14:04 UTC
+ Last Updated on 31/05/2024 00:13:24 UTC
 <!--END_SECTION:waka-->
