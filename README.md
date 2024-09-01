@@ -40,10 +40,6 @@ I was born in 2005.
 
 🖥️ I'm currently working Covest Finance
 
-
-
-**[Portfolio](https://beamnawapat.github.io/)** | **[Timeline](https://timelines.gitkraken.com/timeline/c2ead8867f6d406cb5cfe0a71815dc83?showMinimap=true)**
-
 ### Skills
 
 <div>
