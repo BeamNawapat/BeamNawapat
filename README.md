@@ -76,7 +76,7 @@ I was born in 2005.
 
 > 📦 292.4 kB Used in GitHub's Storage 
  > 
-> 🏆 332 Contributions in the Year 2024
+> 🏆 334 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -84,6 +84,21 @@ I was born in 2005.
  > 
 > 🔑 21 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -97,5 +112,5 @@ Python                   2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 04/11/2024 00:17:33 UTC
+ Last Updated on 05/11/2024 00:16:28 UTC
 <!--END_SECTION:waka-->
