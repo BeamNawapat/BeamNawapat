@@ -76,7 +76,7 @@ I was born in 2005.
 
 > 📦 292.4 kB Used in GitHub's Storage 
  > 
-> 🏆 335 Contributions in the Year 2024
+> 🏆 741 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -84,33 +84,18 @@ I was born in 2005.
  > 
 > 🔑 21 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               29 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   43.94 % 
-JavaScript               15 repos            ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.73 % 
-Solidity                 6 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.09 % 
-HTML                     4 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.06 % 
-Python                   2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.03 % 
+TypeScript               29 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   43.28 % 
+JavaScript               16 repos            ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.88 % 
+Solidity                 6 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.96 % 
+HTML                     4 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.97 % 
+Python                   2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.99 % 
 ```
 
 
 
 
- Last Updated on 09/11/2024 00:16:13 UTC
+ Last Updated on 10/11/2024 00:17:49 UTC
 <!--END_SECTION:waka-->
