@@ -20,11 +20,19 @@
    <img align="center" alt="Nawapat Buakoet | Linkedin"  width="25" height="25" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />
 </a>
 </p>
-
+<br><br>
+<div align="center">
+<img
+  src="https://render.gitanimals.org/farms/BeamNawapat"
+  width="600"
+  height="300"
+  align="center"
+/>
+</div>
+<br><br>
 
 <div align="right">
  <img align="right" alt="spotify recently played" src="https://spotify-recently-played-readme.vercel.app/api?user=g9v47h98zmp015cdsbn32uf0d&count=2">
-
 </div>
 
 
