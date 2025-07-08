@@ -84,8 +84,6 @@ I was born in 2005.
 
 > 📦 304.0 kB Used in GitHub's Storage 
  > 
-> 🏆 312 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 76 Public Repositories 
@@ -120,5 +118,5 @@ C++                      1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 07/07/2025 00:21:34 UTC
+ Last Updated on 08/07/2025 00:19:58 UTC
 <!--END_SECTION:waka-->
