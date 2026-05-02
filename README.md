@@ -175,9 +175,3 @@
 <div align="center">
   <img src="https://render.gitanimals.org/farms/BeamNawapat" width="600" height="300" />
 </div>
-
-#### 🎵 Currently Listening To
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=g9v47h98zmp015cdsbn32uf0d&count=5" />
-</p>
