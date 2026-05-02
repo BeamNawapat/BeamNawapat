@@ -42,15 +42,11 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/beamnawapat)
 
 </td>
-<td width="35%" valign="top" align="center">
+<td width="35%" valign="center" align="center">
 
 <a href="https://www.buymeacoffee.com/beamnawapat" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" height="50" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=BeamNawapat&label=Profile+views&color=blueviolet&style=flat" />
 
 </td>
 </tr>
@@ -136,42 +132,23 @@
 
 ### 📊 Stats & Activity
 
-#### 🏙️ Contribution City
+<table>
+<tr>
+<td width="50%" valign="middle" align="center">
+
+<img src="https://streak-stats.demolab.com/?user=BeamNawapat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</td>
+<td width="50%" valign="middle" align="center">
+
+<a href="https://tokscale.ai/u/BeamNawapat" target="_blank">
+  <img src="https://tokscale.ai/api/embed/BeamNawapat/svg?sort=cost&compact=1" alt="Tokscale Stats" />
+</a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</div>
-
-#### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeamNawapat&theme=tokyonight" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeamNawapat&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeamNawapat&theme=tokyonight" alt="Most Commit Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeamNawapat&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BeamNawapat&theme=tokyonight&utcOffset=7" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BeamNawapat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-#### 🤖 AI Usage
-
-<p align="center">
-  <a href="https://tokscale.ai/u/BeamNawapat" target="_blank">
-    <img src="https://tokscale.ai/api/embed/BeamNawapat/svg?sort=cost&compact=1" alt="Tokscale Stats" />
-  </a>
-</p>
-
-#### 🌾 GitAnimals Farm
-
-<div align="center">
-  <img src="https://render.gitanimals.org/farms/BeamNawapat" width="600" height="300" />
 </div>
